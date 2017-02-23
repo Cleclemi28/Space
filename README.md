@@ -1,2 +1,0 @@
-# Space
-WCS bootstrap quest
